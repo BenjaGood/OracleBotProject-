@@ -1,4 +1,4 @@
-# ORACLE JAVA BOT: Reto de Desarrollo de Software
+# ORACLE JAVA updated BOT: Reto de Desarrollo de Software
 
 ## Descripción General
 En un mundo donde el desarrollo de software evoluciona rápidamente, la adopción de DevOps ha demostrado ser clave para mejorar la entrega de servicios a los usuarios finales sin comprometer la calidad. Inspirado en este principio, el equipo de desarrollo de software de Oracle se embarca en un reto para mejorar la productividad y visibilidad de las actividades del equipo en un 20% mediante la automatización y un ChatBot, el Oracle Java Bot.
